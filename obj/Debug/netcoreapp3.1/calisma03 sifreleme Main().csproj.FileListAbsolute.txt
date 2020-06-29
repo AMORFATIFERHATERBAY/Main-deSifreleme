@@ -1,0 +1,12 @@
+/Users/amorfati/Desktop/dotnet-deneme/calisma03 sifreleme Main()/bin/Debug/netcoreapp3.1/calisma03 sifreleme Main().deps.json
+/Users/amorfati/Desktop/dotnet-deneme/calisma03 sifreleme Main()/bin/Debug/netcoreapp3.1/calisma03 sifreleme Main().runtimeconfig.json
+/Users/amorfati/Desktop/dotnet-deneme/calisma03 sifreleme Main()/bin/Debug/netcoreapp3.1/calisma03 sifreleme Main().runtimeconfig.dev.json
+/Users/amorfati/Desktop/dotnet-deneme/calisma03 sifreleme Main()/bin/Debug/netcoreapp3.1/calisma03 sifreleme Main().dll
+/Users/amorfati/Desktop/dotnet-deneme/calisma03 sifreleme Main()/bin/Debug/netcoreapp3.1/calisma03 sifreleme Main().pdb
+/Users/amorfati/Desktop/dotnet-deneme/calisma03 sifreleme Main()/obj/Debug/netcoreapp3.1/calisma03 sifreleme Main().csprojAssemblyReference.cache
+/Users/amorfati/Desktop/dotnet-deneme/calisma03 sifreleme Main()/obj/Debug/netcoreapp3.1/calisma03 sifreleme Main().AssemblyInfoInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/calisma03 sifreleme Main()/obj/Debug/netcoreapp3.1/calisma03 sifreleme Main().AssemblyInfo.cs
+/Users/amorfati/Desktop/dotnet-deneme/calisma03 sifreleme Main()/obj/Debug/netcoreapp3.1/calisma03 sifreleme Main().csproj.CoreCompileInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/calisma03 sifreleme Main()/obj/Debug/netcoreapp3.1/calisma03 sifreleme Main().dll
+/Users/amorfati/Desktop/dotnet-deneme/calisma03 sifreleme Main()/obj/Debug/netcoreapp3.1/calisma03 sifreleme Main().pdb
+/Users/amorfati/Desktop/dotnet-deneme/calisma03 sifreleme Main()/obj/Debug/netcoreapp3.1/calisma03 sifreleme Main().genruntimeconfig.cache
